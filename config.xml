@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.sawyerique.fuzcooksupgame"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Fuz Cooks Up: The Catch Challenge!</name>
+
+  <description>
+      Fuz Cooks Up, Sawyer Ique's short, is now a mobile game for the first time ever! Catch the food, and try to not drop it.
+  </description>
+
+  <author href="https://www.youtube.com/channel/UC-JKIGYyFrVv7ttiIhmtI6Q" email="chukoloco08@gmail.com">
+      Sawyer Ique
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
